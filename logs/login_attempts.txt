@@ -1,1 +1,4 @@
 
+cat login_attempts.txt
+grep "FAILED" login_attempts.txt
+grep "SUCCESS" login_attempts.txt
